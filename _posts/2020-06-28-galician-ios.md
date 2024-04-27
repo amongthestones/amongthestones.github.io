@@ -1,5 +1,7 @@
-# Hey Apple, Add A Galician Keyboard in iOS14
-
+---
+layout: post
+title: Hey Apple, Add A Galician Keyboard in iOS14
+---
 ![](http://amongthestones.com/wp-content/uploads/2020/07/applegalician_720p.png)
 
 Apple’s annual [Worldwide Developers Conference](https://developer.apple.com/wwdc20/) (WWDC) wrapped up yesterday. This year’s was pretty different. With the coronavirus pandemic unabated, the whole conference was moved online and made more accessible and streamable for all, providing safety and convenience to regular attendees as well as enthusiasts who have never made the trip to San Francisco or San Jose.
