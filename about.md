@@ -10,11 +10,11 @@ After studying functional linguistics in Oregon, I moved to West Africa for most
 
 These days, I work for a podcast hosting and analytics provider, explore my adopted home (sometimes in a camper van), and try to read and write in my spare time.
 
-Home is in the middle of the **Ribeira Sacra e Serras do Oribio e Courel [Biosphere Reserve](https://en.unesco.org/biosphere/eu-na/ribeira-sacra-e-serras-do-oribio-e-courel)** (about the size of Yosemite National Park) in Galicia, Spain, with 75,000 neighbors along with 1,200 species of flora and 277 species of fauna.
+Home is in the middle of the **Ribeira Sacra e Serras do Oribio e Courel Biosphere Reserve (about the size of Yosemite National Park) in Galicia, Spain, with 75,000 neighbors along with 1,200 species of flora and 277 species of fauna.
 
 I eat vegetarian, overuse commas, and support the reorganization of society that prioritizes the planet and its inhabitants over the accumulation and consolidation of capital.
 
-The title of this blog and expression _among the stones_ is the translated [_Loko](https://en.wikipedia.org/wiki/Loko_language)toponym_ of my host village in Sierra Leone. It’s also apt in Galicia. Among the Stones is about a few things:
+The title of this blog and expression _among the stones_ is the translated Loko toponym of my host village in Sierra Leone. It’s also apt in Galicia. Among the Stones is about a few things:
 
 - [journal](https://amongthestones.com/journal/) updates on what I’m up to and working on
 - remote work at home or on the road
