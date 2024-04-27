@@ -10,6 +10,8 @@ After studying functional linguistics in Oregon, I moved to West Africa for most
 
 These days, I work for a podcast hosting and analytics provider, explore my adopted home (sometimes in a camper van), and try to read and write in my spare time.
 
+### More Information
+
 Home is in the middle of the **Ribeira Sacra e Serras do Oribio e Courel Biosphere Reserve (about the size of Yosemite National Park) in Galicia, Spain, with 75,000 neighbors along with 1,200 species of flora and 277 species of fauna.
 
 I eat vegetarian, overuse commas, and support the reorganization of society that prioritizes the planet and its inhabitants over the accumulation and consolidation of capital.
@@ -24,10 +26,6 @@ The title of this blog and expression _among the stones_ is the translated Loko 
 - posts and photos of my time in Upper Guinea and [West African](https://amongthestones.com/tag/west-africa/) history
 - interesting [links](https://amongthestones.com/links/) about anything
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jmbaum@gmail.com](mailto:jmbaum@gmail.com)
